@@ -15,6 +15,6 @@ public class LotteryRoutes {
     // Functional endpoint - We can also use function routers to build.
     @Bean
     public RouterFunction<ServerResponse> useLotteryRoutes(LotteryHandler lotteryHandler) {
-        return route(POST("/api/v2/lottery/ticket"), lotteryHandler::issueTicket);
+        return route(POST("/api/v2/ticket"), lotteryHandler::issueTicket);
     }
 }

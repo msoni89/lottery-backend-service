@@ -67,3 +67,7 @@ yarn start
 
 ## May see error while running test cases.
 ![img.png](img.png)
+
+## Swagger Doc.
+
+![swagger.png](swagger.png)
