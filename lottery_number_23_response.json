@@ -1,0 +1,332 @@
+[
+  {
+    "ticket_id": "ba85108f-5065-4a4d-aa60-415b5c3dbffd",
+    "user_id": "12b1d477-e110-45ab-aa3a-99b24a492f87",
+    "lottery_number": "lottery_number_23",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "f31efe85-f9a6-45db-8808-7afacc7350ee",
+    "user_id": "ebf9c9c6-3fe3-4ac2-bb6b-80edc4a0380a",
+    "lottery_number": "lottery_number_15",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "79a42872-2fc8-4327-873f-d5c154f24fd5",
+    "user_id": "74958afd-e323-43a9-93ae-3175061b87ae",
+    "lottery_number": "lottery_number_26",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "6b821e56-9d05-44ff-9580-7961d9a8ac43",
+    "user_id": "7e990bae-fceb-4f33-82b3-34bd4c1d4db5",
+    "lottery_number": "lottery_number_12",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "aceb0203-c1d7-493e-948e-dc421bfdba2d",
+    "user_id": "c6d3fa3c-76b3-4efe-991c-add90eebee84",
+    "lottery_number": "lottery_number_21",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "0f355928-4f74-460e-a774-7693e71e2703",
+    "user_id": "2bbab5d0-5d83-4899-a057-b1eeaa309783",
+    "lottery_number": "lottery_number_19",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "4ecf021a-a362-4d4f-8e62-fa9b17573539",
+    "user_id": "ae018dd5-d98d-45dc-bbc5-fc0f10d56b7e",
+    "lottery_number": "lottery_number_17",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "a44d6e93-8492-4668-9015-6f6b3ffee20e",
+    "user_id": "397fc7cf-2ea9-439f-9cb1-11029cebe6c2",
+    "lottery_number": "lottery_number_3",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "5eff1614-c8c7-4b8a-82cc-997999bfbaf4",
+    "user_id": "1c26d89e-63ca-4037-9b61-6aeb24db8af1",
+    "lottery_number": "lottery_number_24",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "63d7fc02-48a7-4c0f-9017-9b76d45e7654",
+    "user_id": "01f3ea8a-7c3d-47db-a796-4704c23cc9fa",
+    "lottery_number": "lottery_number_20",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "25e8a7ab-c0d3-4b83-b742-a11cf3b96cb4",
+    "user_id": "0c90cb78-90b2-4b7f-9fa7-beabfa70b8e5",
+    "lottery_number": "lottery_number_28",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "7e2b2d97-b08e-43d0-ba38-69ade791dd03",
+    "user_id": "f7522f4e-6179-4963-a8fb-11f660537ac0",
+    "lottery_number": "lottery_number_9",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "0614fbcd-4b08-4f79-bdbe-1e13d1b28b64",
+    "user_id": "13abe9af-1153-48bd-b09f-00d7437f2e26",
+    "lottery_number": "lottery_number_29",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "abdb3ab1-c09b-440f-b0c4-07f75c9afafa",
+    "user_id": "d813dee7-07b7-48aa-8340-741a5ea5cf7a",
+    "lottery_number": "lottery_number_25",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "18e1f74d-71f4-4cfc-a080-a91bec2c1ef9",
+    "user_id": "ea1fa0ee-b0f5-4d16-bfce-817977eeced0",
+    "lottery_number": "lottery_number_22",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "bb362c2f-fe3c-4290-8a37-17a8db55f149",
+    "user_id": "eef5bb1d-35f1-45ad-a266-943d767ea6a0",
+    "lottery_number": "lottery_number_11",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "2bd15565-eb83-441f-8ca9-36b6796e74e8",
+    "user_id": "33c80fb2-65a2-41d4-ad01-83fa12164b8c",
+    "lottery_number": "lottery_number_10",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "70468f9e-d97c-4faa-aa4d-bba633c919fe",
+    "user_id": "f3632091-356e-4439-a740-a9c956acd6e9",
+    "lottery_number": "lottery_number_4",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "21c74ee9-73c1-440a-8046-19932269a667",
+    "user_id": "f457b607-d55a-4a26-ad0f-0fe5b2e9429a",
+    "lottery_number": "lottery_number_30",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "48b54f9d-d3ca-45c5-8f51-398c8bfb5653",
+    "user_id": "2f28b8fe-a574-4ca9-86ac-115b3f064d4c",
+    "lottery_number": "lottery_number_8",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "7ea628c6-a3a1-4cc8-880c-32c9cfd302dd",
+    "user_id": "fd026204-8df7-413d-a58a-f2614588dccd",
+    "lottery_number": "lottery_number_14",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "2fd83068-5836-4336-982a-5dfcacca33eb",
+    "user_id": "7014587d-72e7-422a-8d24-3014b84217c9",
+    "lottery_number": "lottery_number_18",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "7f16b1c4-f8ca-4472-9a97-1d8c787636d0",
+    "user_id": "3c999d3f-36d4-42b5-a0ff-ebc14a062155",
+    "lottery_number": "lottery_number_16",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "f5cbf0d7-f021-44e8-8cf7-135b21e9960d",
+    "user_id": "0d15d40a-9f53-4d7e-b6f2-9f9cd4668bb0",
+    "lottery_number": "lottery_number_5",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "253acaaa-edc6-45cd-afb1-862680c0cb34",
+    "user_id": "b8428eb8-67d7-46d1-a7a2-0555832760eb",
+    "lottery_number": "lottery_number_1",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "819321dd-f835-45ab-982e-c5cb1d5a06b8",
+    "user_id": "59e877b6-0965-4ce9-b42b-e78fd45b0247",
+    "lottery_number": "lottery_number_27",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "2f0869a8-93d9-4939-87ea-9d80370e1429",
+    "user_id": "4b6bbc41-a848-403b-b1b0-5302a40c698a",
+    "lottery_number": "lottery_number_7",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "d5e42b8b-3b50-404b-b31a-1cba92383099",
+    "user_id": "7f0fa9eb-9210-48fd-a180-ba4396177ce6",
+    "lottery_number": "lottery_number_13",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "c0b5b80e-66cd-4dca-8a41-04791d658457",
+    "user_id": "db3a99c8-380b-473a-8637-dfdcbe5317d3",
+    "lottery_number": "lottery_number_6",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  },
+  {
+    "ticket_id": "4c58b508-85f5-42b0-b44b-9082ef773d78",
+    "user_id": "5114509e-050f-406c-af32-f66cb87170d8",
+    "lottery_number": "lottery_number_2",
+    "lottery": {
+      "name": "lottery-min-super-30",
+      "lottery_id": "a296ee11-ed79-42a6-b9ea-d6e299739759",
+      "total_allotted_tickets": 30,
+      "total_available_tickets": 0
+    }
+  }
+]
