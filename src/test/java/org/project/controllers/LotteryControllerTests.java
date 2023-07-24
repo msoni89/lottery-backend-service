@@ -42,11 +42,11 @@ public class LotteryControllerTests {
     @Test
     public void issueTicket_returns_not_found_error_if_lottery_does_not_exist() throws Exception {
 
-        UUID LotteryId = UUID.randomUUID();
+        UUID lotteryId = UUID.randomUUID();
         // Create a request to issue a ticket for a lottery that does not exist.
         IssueTicketRequest request = IssueTicketRequest.builder()
                 .userId(UUID.randomUUID())
-                .lotteryId(LotteryId)
+                .lotteryId(lotteryId)
                 .build();
 
         // Send the request and expect a 404 Not Found response.
@@ -56,7 +56,7 @@ public class LotteryControllerTests {
                 .andDo(print())
                 .andExpect(status().isNotFound())
                 .andExpect(content().contentTypeCompatibleWith(MediaType.APPLICATION_JSON))
-                .andExpect(jsonPath("$.message", is(String.format("Lottery with lotteryId %s does not exist", LotteryId))))
+                .andExpect(jsonPath("$.message", is(String.format("Lottery with lotteryId %s does not exist", lotteryId))))
                 .andExpect(jsonPath("$.status", is("NOT_FOUND")));
     }
 
@@ -184,14 +184,8 @@ public class LotteryControllerTests {
                 = objectMapper.readValue(responseBody, LotteryResponse.class);
 
         // Issue tickets for all 30 tickets
-        for (int i = 1; i <= 30; i++) {
-            mvc.perform(post("/api/v1/ticket")
-                            .content(objectMapper.writeValueAsString(IssueTicketRequest.builder().userId(UUID.randomUUID()).lotteryId(lotteryResponse.id()).build()))
-                            .contentType(MediaType.APPLICATION_JSON))
-                    .andDo(print())
-                    .andExpect(status().isCreated());
-
-            if (i == 30) {
+        for (int i = 1; i <= 31; i++) {
+            if (i == 31) {
                 mvc.perform(post("/api/v1/ticket")
                                 .content(objectMapper.writeValueAsString(IssueTicketRequest.builder().userId(UUID.randomUUID()).lotteryId(lotteryResponse.id()).build()))
                                 .contentType(MediaType.APPLICATION_JSON))
@@ -200,7 +194,13 @@ public class LotteryControllerTests {
                         .andExpect(content().contentTypeCompatibleWith(MediaType.APPLICATION_JSON))
                         .andExpect(jsonPath("$.message", is("Out of tickets")))
                         .andExpect(jsonPath("$.status", is("GONE")));
+                continue;
             }
+            mvc.perform(post("/api/v1/ticket")
+                            .content(objectMapper.writeValueAsString(IssueTicketRequest.builder().userId(UUID.randomUUID()).lotteryId(lotteryResponse.id()).build()))
+                            .contentType(MediaType.APPLICATION_JSON))
+                    .andDo(print())
+                    .andExpect(status().isCreated());
         }
 
         // list all 30 user tickets
