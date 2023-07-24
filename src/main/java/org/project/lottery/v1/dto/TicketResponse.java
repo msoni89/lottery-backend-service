@@ -3,6 +3,7 @@ package org.project.lottery.v1.dto;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonSerialize;
 
+import java.io.Serializable;
 import java.util.UUID;
 
 @JsonSerialize

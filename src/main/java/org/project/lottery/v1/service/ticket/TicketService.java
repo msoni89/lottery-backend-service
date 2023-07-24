@@ -131,7 +131,7 @@ public class TicketService implements ITicketService {
      * @param uuid The ticket ID.
      * @return The ticket.
      */
-    @Cacheable(value = "tickets", key = "#id", unless = "#result != null")
+    @Cacheable(value = "tickets", key = "#uuid")
     public Optional<Ticket> findById(UUID uuid) {
         // Get the ticket by ID from the repository.
         log.info("Ticket by id '{}'", uuid);

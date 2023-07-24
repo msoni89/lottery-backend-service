@@ -3,6 +3,7 @@ package org.project.lottery.v1.entity;
 import jakarta.persistence.*;
 import lombok.*;
 
+import java.io.Serializable;
 import java.util.Set;
 import java.util.UUID;
 
@@ -12,7 +13,7 @@ import java.util.UUID;
 @AllArgsConstructor
 @Getter
 @Setter
-public class Lottery {
+public class Lottery implements Serializable {
 
     @Id
     @GeneratedValue(strategy = GenerationType.UUID)
